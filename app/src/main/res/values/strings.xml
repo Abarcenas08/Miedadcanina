@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Mi edad canina</string>
+    <string name="result_forma">If you wer a dog, you would be %d years old </string>
+    <string name="you_have_to_insert_an_age">you have to insert an age.</string>
+    <string name="calculate">calculate</string>
+    <string name="my_age">My age</string>
+    <string name="how_old_are_you">How old are you?</string>
+    <string name="you_age">How old are you?</string>
+
+</resources>
